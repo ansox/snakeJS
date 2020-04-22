@@ -1,0 +1,3 @@
+# snakeJS
+
+Snake in VanillaJS
